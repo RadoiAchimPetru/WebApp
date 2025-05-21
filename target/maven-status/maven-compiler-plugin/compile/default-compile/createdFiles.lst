@@ -1,0 +1,3 @@
+com\rentcar\backend\model\User.class
+com\rentcar\backend\repository\UserRepository.class
+com\rentcar\backend\BackendApplication.class
